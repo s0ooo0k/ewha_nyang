@@ -28,8 +28,13 @@ Android Mobile Phone
   git clone
   ```
   Assets > Scene > Main > Startscene 눌러 실행
-  
   <br>
+  
+## How to Play
+- 가장 첫 스테이지인 '정문'의 경우, 직접 이화여자대학교 정문에 가야 클리어가 가능합니다.<br>
+  직접 방문이 어려우신 경우 아래 사진을 target point에 인식시켜주세요.
+  
+  
 
 ### Version 1.0.0 (June 10th, 2022) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 이화냥탐험대의 초기 버전은 [Vuforia](https://developer.vuforia.com/) 엔진이 포함되어 있습니다.
