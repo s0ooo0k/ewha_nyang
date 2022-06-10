@@ -19,6 +19,8 @@
 ## Software
 Android Mobile Phone 
 
+<bR>
+
 ## Installation
 - [권장] 직접 다운로드 - [이화냥탐험대](https://drive.google.com/drive/u/0/folders/1PoG5tKNEn3Qulff7zXJSkQ8pRmnaDZU5) 후 안드로이드 기기에서 실행
 - git을 통한 파일 전체 다운로드
